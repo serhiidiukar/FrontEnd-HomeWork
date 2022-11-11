@@ -1,0 +1,117 @@
+body{
+    max-width: 1400px;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.header{
+    height: 110px;
+    text-align: center;
+}
+.header_word1{
+    color: #3E45E8;
+    padding-top: 25px;
+    padding-bottom: 31px;
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.header_word2{
+    color: #E8C23E;
+    padding-top: 25px;
+    padding-bottom: 31px;
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.content_main{
+    height: 803px;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat; 
+}
+.flag{
+    float: left;
+    width: 102px;
+    height: 272px;
+    padding-top: 206px;
+    padding-left: 80px;
+    box-sizing: border-box;
+}
+.flag_b{
+    height: 136px;
+    width: 22px;
+    background-color: #1E8DF2;
+}
+.flag_y{
+    height: 136px;
+    width: 22px;
+    background-color: #FBE201;
+}
+.content_text{
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-left: 118px;
+    padding-top: 195px;
+    box-sizing: border-box;
+}
+.content_title{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 5%;
+    box-sizing: border-box;
+    
+}
+.hr1{
+    background-color: #3E45E8;
+    width: 462px;
+    height: 5px;
+    margin: auto 0;
+}
+.tab{
+    width: 30%;
+    float: left;
+}
+.content_title_2{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.hr2{
+    background-color: #3E45E8;
+    width: 462px;
+    height: 5px;
+}
+.map{
+    text-align: center;
+}
+.box{
+    margin: 0 auto;
+    height: 121px;
+    width: 591px;
+    background-color: #2A61F0;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 121px;
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #2F4A4B;
+    text-align: center;
+}
+.contacts, a{
+    font-family: 'Marcellus SC', serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45.14px;
+    color: #A89D9D;
+    text-decoration: none;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+.socials{
+    display: inline-flex;
+}
+.soc{
+    width: 0 auto;
+}
